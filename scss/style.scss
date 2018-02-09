@@ -1,5 +1,6 @@
-@import "./base/base.scss";
-@import "./base/settings.scss";
-@import "./components/body.scss";
-@import "./components/header.scss";
-@import "./components/footer.scss";
+@import "./bourbon/bourbon";
+@import "./base/base";
+@import "./base/settings";
+@import "./components/body";
+@import "./components/header";
+@import "./components/footer";
